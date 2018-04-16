@@ -1,4 +1,5 @@
- // Initialize Firebase
+
+  // Initialize Firebase
   var config = {
     apiKey: "AIzaSyCe4Z3rlcvJXob_is4xvuz8JkGQMVsR7R4",
     authDomain: "fir-homework-4c924.firebaseapp.com",
@@ -85,4 +86,5 @@
             $("#trainContainer").append(trainRow);       
             
         });
+    
     
